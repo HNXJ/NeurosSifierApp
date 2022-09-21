@@ -1,2 +1,2 @@
 # NeurosSifier
-Matlab app for Neural-Cortical signal-data multicategory classification
+Matlab app for Neural-Cortical signal or data multicategory classification
