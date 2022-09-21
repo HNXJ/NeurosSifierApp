@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.mat
+*.asv
 
 # Compiled Object files
 *.slo
