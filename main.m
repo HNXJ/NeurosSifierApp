@@ -1,7 +1,7 @@
 %% In Thy Name
 
 % NeuroClassifierApp
-% HNyXJ@VU - 2022 - September
+% HNXJ@Github - 2022 - September
 
 
 %% Loading
